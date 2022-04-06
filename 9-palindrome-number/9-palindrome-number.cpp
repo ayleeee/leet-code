@@ -5,9 +5,8 @@ public:
             return false;
         }else{
             string origin = to_string(x);
-            string origin2 = origin;
             reverse(origin.begin(),origin.end());
-            if(origin == origin2){
+            if(origin == to_string(x)){
                 return true;
             }else{
                 return false;
