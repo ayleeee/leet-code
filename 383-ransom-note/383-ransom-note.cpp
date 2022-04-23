@@ -7,7 +7,7 @@ public:
         }
         for(auto rn : ransomNote){
             if(!mp[rn]) return false;
-            mp[rn]--;
+            mp[rn]-=1;
         }
         return true;
     }
