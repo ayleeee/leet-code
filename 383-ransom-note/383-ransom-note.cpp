@@ -3,7 +3,7 @@ public:
     bool canConstruct(string ransomNote, string magazine) {
         unordered_map<char,int> mp;
         for(auto ch:magazine){
-            mp[ch]++;
+            mp[ch]+=1;
         }
         for(auto rn : ransomNote){
             if(!mp[rn]) return false;
