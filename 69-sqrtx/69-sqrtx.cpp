@@ -1,10 +1,17 @@
 class Solution {
 public:
-    int mySqrt(int x) {
-        long long i = 0;
-        while(i*i<=x){
-            i++;
+    int mySqrt(long long x) {
+        long long start = 0;
+        long long end = x+1;
+        while(start<end){
+            long long mid = start+(end-start)/2;
+            if(mid*mid>x){
+                end=mid;
+            }else{
+                start=mid+1;
+            }
         }
-        return i-1;
+        return start-1;
     }
 };
+
