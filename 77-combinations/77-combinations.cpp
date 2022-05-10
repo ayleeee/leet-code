@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<vector<int>> ans;
     
-    void helper(int num,vector<int>v,int n,int k){
+    void helper(int num,vector<int>&v,int n,int k){
         if(v.size()==k) {
             ans.push_back(v);
             return;
