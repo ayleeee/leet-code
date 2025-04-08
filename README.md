@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ayleeee/leet-code/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/ayleeee/leet-code/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ayleeee/leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/ayleeee/leet-code/tree/master/1894-merge-strings-alternately) |
@@ -39,11 +40,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ayleeee/leet-code/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ayleeee/leet-code/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ayleeee/leet-code/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ayleeee/leet-code/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ayleeee/leet-code/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ayleeee/leet-code/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
