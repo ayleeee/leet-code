@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ayleeee/leet-code/tree/master/0070-climbing-stairs) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ayleeee/leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
 |  |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ayleeee/leet-code/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/ayleeee/leet-code/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
@@ -68,4 +70,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ayleeee/leet-code/tree/master/0347-top-k-frequent-elements) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ayleeee/leet-code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
