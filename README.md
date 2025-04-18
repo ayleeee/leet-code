@@ -7,12 +7,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ayleeee/leet-code/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/ayleeee/leet-code/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayleeee/leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/ayleeee/leet-code/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/ayleeee/leet-code/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ayleeee/leet-code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ayleeee/leet-code/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/ayleeee/leet-code/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ayleeee/leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
